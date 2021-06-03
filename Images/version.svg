@@ -25,10 +25,10 @@
             Latest Version
         </text>
         <text fill="#010101" x="91" fill-opacity=".3" y="15" class="tMove">
-            3.2.0
+            3.2.1
         </text>
         <text x="91" id="vText" y="14" class="tMove">
-            3.2.0
+            3.2.1
         </text>
     </g>
 </svg>
